@@ -1,0 +1,28 @@
+{
+  "tareas": [
+    {
+      "id": "Thu Mar 20 2025",
+      "titulo": "Primer Tarea Editada",
+      "descripcion": "Descripcion de la primer tarea editada",
+      "fechaLimite": "2025-03-20"
+    },
+    {
+      "id": "Thu Mar 20 2025",
+      "titulo": "Nueva tarea 2",
+      "descripcion": "descripcio nueva tarea 2",
+      "fechaLimite": "2025-06-23"
+    },
+    {
+      "id": "Thu Mar 20 2025",
+      "titulo": "Nueva tarea 3",
+      "descripcion": "Descripcio nde la nueva tarea 3",
+      "fechaLimite": "2025-03-03"
+    },
+    {
+      "id": "Thu Mar 20 2025",
+      "titulo": "Nueva tarea 4",
+      "descripcion": "Descripcion de la nueva tarea 4",
+      "fechaLimite": "2025-03-29"
+    }
+  ]
+}
